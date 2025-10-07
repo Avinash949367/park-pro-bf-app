@@ -1,0 +1,4 @@
+- [x] Add location detection to book_slot_page.dart
+- [x] Display current city above search bar
+- [x] Add non-functional search bar
+- [x] If location not detected, show "No location found" and hide stations
